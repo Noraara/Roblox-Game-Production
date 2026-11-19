@@ -1,0 +1,4 @@
+interface:
+  display_name: "Roblox Game Production"
+  short_description: "Build and verify Roblox game changes"
+  default_prompt: "Use $roblox-game-production to read the starter quest brief in examples/starter-quest, identify the owning components, and prepare the smallest verification plan for a player who triggers it twice. Read only."
